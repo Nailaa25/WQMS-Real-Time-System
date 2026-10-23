@@ -1,0 +1,11 @@
+flask
+flask-cors
+paho-mqtt
+sqlalchemy
+pandas
+python-dotenv
+pyserial
+gunicorn
+psycopg2-binary
+psycopg2-binary
+psycopg[binary]
